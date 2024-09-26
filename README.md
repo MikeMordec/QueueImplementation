@@ -2,15 +2,6 @@
 
 A simple Python implementation of a queue data structure. This project demonstrates the fundamental operations of a queue, including enqueue, dequeue, peek, and size, as well as methods to display the current state of the queue.
 
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Code Structure](#code-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - **Enqueue**: Add an item to the end of the queue.
@@ -73,9 +64,10 @@ License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-typescript
+csharp
 
 
-### Notes
-- Be sure to replace `yourusername` with your actual GitHub username if you include that line back in. 
-- You can customize or expand any sections as needed! If you need further adjustments, just let me know!
+### Changes Made:
+- Removed the markdown link formatting from the section headers.
+
+Feel free to copy and paste this revised version into your GitHub repository! If you have any further adjustments or questions, just let me know!
