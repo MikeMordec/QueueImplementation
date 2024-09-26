@@ -57,14 +57,6 @@ Queue Class Methods
     size(): Returns the number of items in the queue.
     peek(): Returns the item at the front of the queue without removing it.
 
-Contributing
-
-Contributions are welcome! If you have suggestions for improvements or new features, please feel free to create an issue or submit a pull request.
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-csharp
 
 
 ### Changes Made:
