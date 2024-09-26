@@ -59,7 +59,3 @@ Queue Class Methods
 
 
 
-### Changes Made:
-- Removed the markdown link formatting from the section headers.
-
-Feel free to copy and paste this revised version into your GitHub repository! If you have any further adjustments or questions, just let me know!
